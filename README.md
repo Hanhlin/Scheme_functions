@@ -1,4 +1,4 @@
-# Schene_functions
+# Scheme_functions
 Includes ten small Scheme functions. 
 
 All code are purely functional and do not use of built in functions, such as set!, set-car!, and set-cdr!.
